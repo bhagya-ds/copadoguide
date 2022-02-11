@@ -175,9 +175,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Third_Field__c</fullName>
+        <fullName>Second_Field__c</fullName>
         <externalId>false</externalId>
-        <label>Third Field</label>
+        <label>Second Field</label>
         <length>10</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -186,9 +186,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Second_Field__c</fullName>
+        <fullName>Third_Field__c</fullName>
         <externalId>false</externalId>
-        <label>Second Field</label>
+        <label>Third Field</label>
         <length>10</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
